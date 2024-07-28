@@ -26,7 +26,7 @@ Keyser Soze : A sleek, responsive hotel booking website crafted with HTML, CSS, 
 - Mastered HTML structure and semantic tags
 - Improved CSS styling skills and responsive design techniques
 - Gained experience with JavaScript for interactive elements
-- Learned to create a user-friendly interface for hotel bookings
+- Learned to create a user-friendly interface for hotel bookings                                                 ![service](https://github.com/user-attachments/assets/ad784d6b-1753-41b3-ab92-0189b9ec0cc0)
 
 
 
@@ -60,8 +60,9 @@ Clone the repository, then open the `index.html` file in your web browser. No sp
 ## Feedback
 
 If you have any feedback, please reach out to us at Snooze.Suite@gmail.com
+                                                                                                  ![image](https://github.com/user-attachments/assets/b84a4ae5-9b0f-43e3-b171-14aa4cb87b0d)
 
-
+                                                                                       
 
 
 
