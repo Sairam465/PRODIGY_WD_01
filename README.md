@@ -10,6 +10,7 @@ SnoozeSuite: A sleek, responsive hotel booking website crafted with HTML, CSS, a
 
 ## Screenshots
 
+
 <img src="https://i.imghippo.com/files/hBpXM1720948293.png" alt="" border="0">
 
 ## Tech Stack
