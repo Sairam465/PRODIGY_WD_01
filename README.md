@@ -1,6 +1,6 @@
-# 🛋️ SnoozeSuite - Hotel Website 
+# 🛋️ Keyser Soze  - Hotel Website 
 
-SnoozeSuite: A sleek, responsive hotel booking website crafted with HTML, CSS, and JavaScript.
+Keyser Soze : A sleek, responsive hotel booking website crafted with HTML, CSS, and JavaScript.
 ## Features
 
 - 🏠 Clean, modern homepage design
@@ -16,17 +16,27 @@ SnoozeSuite: A sleek, responsive hotel booking website crafted with HTML, CSS, a
 - **🎨 CSS3:** Styling and layout
 - **💻 JavaScript:** Basic interactivity
 
+  ![explore](https://github.com/user-attachments/assets/cc5a60eb-aaf1-4a1b-a617-bf4511c1efd0)
+
+
+  
+
 ## Lessons Learned
 
 - Mastered HTML structure and semantic tags
 - Improved CSS styling skills and responsive design techniques
 - Gained experience with JavaScript for interactive elements
 - Learned to create a user-friendly interface for hotel bookings
+
+
+
+
+                                                 
 ## FAQ
 
-#### What is SnoozeSuite?
+#### What is Keyser soze?
 
-SnoozeSuite is a hotel booking website project built using HTML, CSS, and JavaScript. It's designed to showcase modern web development techniques and provide a user-friendly interface for hotel reservations.
+Keyser Soze is a hotel booking website project built using HTML, CSS, and JavaScript. It's designed to showcase modern web development techniques and provide a user-friendly interface for hotel reservations.
 
 #### What technologies are used in this project?
 
@@ -34,7 +44,7 @@ This project primarily uses HTML for structure, CSS for styling, and JavaScript 
 
 #### Is this a fully functional booking system?
 
-No, SnoozeSuite is a front-end project designed to demonstrate UI/UX principles and JavaScript functionality. It does not include a back-end or actual booking capabilities.
+No, Keyser Soze is a front-end project designed to demonstrate UI/UX principles and JavaScript functionality. It does not include a back-end or actual booking capabilities.
 
 #### Is this project mobile-friendly?
 
@@ -50,3 +60,23 @@ Clone the repository, then open the `index.html` file in your web browser. No sp
 ## Feedback
 
 If you have any feedback, please reach out to us at Snooze.Suite@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
