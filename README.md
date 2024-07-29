@@ -59,7 +59,7 @@ Yes, feel free to use this code as a reference or starting point for your own pr
 Clone the repository, then open the `index.html` file in your web browser. No special server setup is required.
 ## Feedback
 
-If you have any feedback, please reach out to us at Snooze.Suite@gmail.com
+If you have any feedback, please reach out to us at Keyser.Soze@gmail.com
                                                                                                   ![image](https://github.com/user-attachments/assets/b84a4ae5-9b0f-43e3-b171-14aa4cb87b0d)
 
                                                                                        
